@@ -1,24 +1,24 @@
-body  {
-    background-color: #2B8734;
-    font-family: Arial,  sans serif ;
-    color: #B11313;
+body {
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    color: #000000;
 }
 
- .kartu-profil {
+.kartu-profil {
    width: 300px;
    margin: 50px auto;
-   paddding: 20px;
-   background-color: white;
+   padding: 20px;
+   background-color: gray;
    border-radius: 15px;
-   box-shadow: 0  4px 8px rgba(0,0,0,0.1);
- }
-|
+   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
 
 .kartu-profil img {
-    width: 150px;
-    border-radius: 50%;
-
-  .kartu-profil {
-      <link rel="stylesheet" hrfe="style.css">
+width: 150px;
+border-radius: 50%;
+}
+.kartu-profil {
+  
     text-align: center;
-  }
+}
