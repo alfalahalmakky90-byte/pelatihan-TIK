@@ -4,7 +4,7 @@ body  {
     color: #B11313;  /* warna teks utama (merah maron) */
 }
 
- .kartu profil {
+ .kartu-profil {
    width: 300px;
    margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan  */
    paddding: 20px;
@@ -19,5 +19,6 @@ body  {
     border-radius: 50%;
 
   .kartu-profil {
+      <link rel="stylesheet" hrfe="style.css">
     text-align: center; /* menengahkan semua teks di dalam kartu */
   }
